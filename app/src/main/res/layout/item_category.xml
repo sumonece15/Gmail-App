@@ -19,7 +19,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@drawable/ic_outline_local_offer_24"
-        app:tint="#4CAF50" />
+        android:tint="#4CAF50"/>
 
     <TextView
 
