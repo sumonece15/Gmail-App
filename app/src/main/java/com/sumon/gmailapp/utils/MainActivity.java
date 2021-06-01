@@ -133,15 +133,18 @@ public class MainActivity extends AppCompatActivity {
         navMenu.add(new NavItem(
                 new MenuItem(R.drawable.ic_baseline_all_inbox_24,"All Inboxes",false,120)
         ));
+
         navMenu.add(new NavItem(
-                new MenuItem(R.drawable.ic_baseline_person_outline_24,"Social",false,20)
+                new MenuItem(R.drawable.ic_baseline_inbox_24,"Primary",false,10)
+        ));
+
+        navMenu.add(new NavItem(
+                new MenuItem(R.drawable.ic_baseline_people_outline_24,"Social",false,20)
         ));
         navMenu.add(new NavItem(
                 new MenuItem(R.drawable.ic_outline_local_offer_24,"Promotions",false,120)
         ));
-        navMenu.add(new NavItem(
-                new MenuItem(R.drawable.ic_outline_forum_24,"Forums",true,5)
-        ));
+
         navMenu.add(new NavItem(new LabelItem("All LABELS")));
 
         navMenu.add(new NavItem(
