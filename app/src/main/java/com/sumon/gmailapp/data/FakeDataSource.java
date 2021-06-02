@@ -13,7 +13,7 @@ public class FakeDataSource {
 
     // Dummy Titles
 
-    public static final String TITLE_1 ="Anna Smith";
+    public static final String TITLE_1 ="Google Developer Profile";
     public static final String TITLE_2 ="Adobe Creative Cloud Updates";
     public static final String TITLE_3 ="Jhon Doe";
     public static final String TITLE_4 ="Kelsey Green";
@@ -37,7 +37,7 @@ public class FakeDataSource {
     public static final String Content_1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
 
     // Dummy Description
-    public static final String DESC_1 = "Lorem ipsum dolor sit amet";
+    public static final String DESC_1 = "Collect your I/O attendee Google Developer Profile badge";
     public static final String DESC_2 = "Lorem ipsum dolor sit amet";
     public static final String DESC_3 = "Lorem ipsum dolor sit amet";
     public static final String DESC_4 = "Lorem ipsum dolor sit amet";
