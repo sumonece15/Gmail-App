@@ -16,7 +16,7 @@ public class FakeDataSource {
     public static final String TITLE_1 ="Google Developer Profile";
     public static final String TITLE_2 ="Adobe Creative Cloud";
     public static final String TITLE_3 ="Hasan Ali";
-    public static final String TITLE_4 ="Kelsey Green";
+    public static final String TITLE_4 ="Sabbir Hossain";
     public static final String TITLE_5 ="Space News Latest Update";
     public static final String TITLE_6 ="Anna Smith";
     public static final String TITLE_7 ="Android Blog Daily Post";
