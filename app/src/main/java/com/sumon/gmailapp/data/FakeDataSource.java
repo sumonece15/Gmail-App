@@ -14,7 +14,7 @@ public class FakeDataSource {
     // Dummy Titles
 
     public static final String TITLE_1 ="Google Developer Profile";
-    public static final String TITLE_2 ="Adobe Creative Cloud";
+    public static final String TITLE_2 ="Delowar Rahman";
     public static final String TITLE_3 ="Hasan Ali";
     public static final String TITLE_4 ="Sabbir Hossain";
     public static final String TITLE_5 ="Space News Latest Update";
@@ -150,7 +150,7 @@ public class FakeDataSource {
         )));
         data.add(new MailItem(new MailSimpleItem(
                 9,
-                TITLE_7,
+                TITLE_2,
                 DESC_1,
                 R.drawable.usernoimg01,
                 Content_1
