@@ -164,7 +164,7 @@ public class FakeDataSource {
         )));
         data.add(new MailItem(new MailSimpleItem(
                 11,
-                TITLE_7,
+                TITLE_1,
                 DESC_1,
                 IMG_1,
                 Content_1
@@ -179,7 +179,7 @@ public class FakeDataSource {
         )));
         data.add(new MailItem(new MailSimpleItem(
                 13,
-                TITLE_7,
+                TITLE_5,
                 DESC_1,
                 IMG_5,
                 Content_1
