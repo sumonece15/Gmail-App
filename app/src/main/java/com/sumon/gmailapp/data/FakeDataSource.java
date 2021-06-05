@@ -34,7 +34,7 @@ public class FakeDataSource {
 
 
     // Dummy Mail Content
-    public static final String Content_1 = "Hi Sumon, Co ";
+    public static final String Content_1 = "Hi Sumon, C ";
 
     // Dummy Description
     public static final String DESC_1 = "Collect your I/O attendee Google Developer Profile badge";
